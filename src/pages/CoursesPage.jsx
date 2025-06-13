@@ -12,7 +12,7 @@ const CoursesPage = () => {
       <h2>Discover Campus Life</h2>
       <div className="video-container">
         <video controls width="100%" className="course-video">
-            <source src="\public\images\vck3.mp4" type="video/mp4" />
+            <source src="\images\vck3.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         <p className="video-caption">
